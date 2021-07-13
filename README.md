@@ -1,0 +1,2 @@
+# Covid-19-Chatbot
+This is a Covid-19 Chatbot developed to assist with user queries related to the current Covid-19 situation in India, it answers to all the queries related to cases, latest news and nearest testing centres using live up to date information from the web. It is implemented using RASA opensource framework and RASA NLU to train the model and come up with the best response, apart from this I used python to answer to the queries of users using live location and latest information.
